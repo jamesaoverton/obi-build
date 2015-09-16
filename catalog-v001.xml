@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/edit.owl" uri="edit.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/ChEBI-imports.owl" uri="imports/ChEBI-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/GO-imports.owl" uri="imports/GO-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/NCBITaxon-imports.owl" uri="imports/NCBITaxon-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/OBO-imports.owl" uri="imports/OBO-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/PATO-imports.owl" uri="imports/PATO-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/SO-imports.owl" uri="imports/SO-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/UO-imports.owl" uri="imports/UO-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/UO-instance-imports.owl" uri="imports/UO-instance-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/external-byhand.owl" uri="imports/external-byhand.owl"/>
+</catalog>
