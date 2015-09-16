@@ -9,5 +9,7 @@
   <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/SO-imports.owl" uri="imports/SO-imports.owl"/>
   <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/UO-imports.owl" uri="imports/UO-imports.owl"/>
   <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/UO-instance-imports.owl" uri="imports/UO-instance-imports.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/epitope-assays.owl" uri="imports/epitope-assays.owl"/>
   <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/external-byhand.owl" uri="imports/external-byhand.owl"/>
+  <uri name="http://purl.obolibrary.org/obo/obi/dev/imports/midlevel-assays.owl" uri="imports/midlevel-assays.owl"/>
 </catalog>
